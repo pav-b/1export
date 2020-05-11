@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<КоммерческаяИнформация xmlns="urn:1C.ru:commerceml_2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ВерсияСхемы="2.10" ДатаФормирования="2018-11-15T13:36:14" Ид="">
+<Коммерческая_Информация xmlns="urn:1C.ru:commerceml_2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ВерсияСхемы="2.10" ДатаФормирования="2018-11-15T13:36:14" Ид="">
 	<Классификатор СодержитТолькоИзменения="true">
 		<Ид>dc8b8a24-c681-4f72-abaa-4c2d9f70ec50</Ид>
 		<Наименование>Основной каталог товаров</Наименование>
